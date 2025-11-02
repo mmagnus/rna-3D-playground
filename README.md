@@ -7,3 +7,11 @@ rna-tutorials is a hands-on repository with shell scripts and command examples d
 ## Tips
 
 - see all tRNA structures - https://rfam.org/family/RF00005#tabview=tab6 
+
+
+## Examplary inputs
+
+    >1ehz (tRNA)
+    GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+
+https://www.rcsb.org/structure/1EHZ
