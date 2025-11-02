@@ -10,7 +10,11 @@ rna-tutorials is a hands-on repository with shell scripts and command examples d
 - `rna-3d-rmsd-for-tRNAs` - 3D structural alignment between two tRNA molecules
 - `rna-tools in colab` https://colab.research.google.com/drive/1PsnQRAKbIhKGuxmhiZ5fSeBkjfQRieSS?usp=sharing
  
-![sc 2025-11-02 at 16 11 26](https://github.com/user-attachments/assets/d36b2129-12ec-466d-b191-3d00fcb51dbd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d36b2129-12ec-466d-b191-3d00fcb51dbd"
+       alt="rna-tools"
+       width="400">
+</p>
 rna-tools in colab
 
 ## Tips
