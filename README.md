@@ -11,7 +11,8 @@ rna-tutorials is a hands-on repository with shell scripts and command examples d
 1. Secondary structure, returns matrix of interactions[^1] (`secondary-structure-interaction-arrays`)
 1. Get secondary structure for tRNA (1ehz)
      - using frabase (https://rnafrabase.cs.put.poznan.pl)
-  
+1. Annotate secondary strucure for `tetraloop_steamOf1bp.pdb` (with rna-tools.online)
+   
 ## RNA Edit
 
   #TODO add extract with rna-tools
